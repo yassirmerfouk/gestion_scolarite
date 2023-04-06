@@ -1,0 +1,5 @@
+@media only screen and (max-width: 600px) {
+  .respensive-table {
+    overflow-x: auto;
+  }
+}
